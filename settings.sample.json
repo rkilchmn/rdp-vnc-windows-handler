@@ -1,0 +1,27 @@
+{
+  "MstscPath": "",
+
+  "VncViewerPath": "",
+  "VncViewerArgs": "{hostport}",
+  "VncDefaultPort": 5900,
+
+  "ScreenModeId": 2,
+  "DesktopWidth": 1280,
+  "DesktopHeight": 800,
+  "UseMultiMon": 0,
+  "SessionBpp": 32,
+
+  "PromptForCredentials": 1,
+  "AuthenticationLevel": 0,
+  "RedirectClipboard": 1,
+
+  "DefaultPort": 3389,
+  "AllowRemoteHosts": false,
+  "AllowedHosts": ["127.0.0.1", "localhost", "::1"],
+
+  "AllowMultipleSessions": false,
+  "DeleteRdpFile": true,
+
+  "LogRetentionDays": 14,
+  "LogVerbose": false
+}

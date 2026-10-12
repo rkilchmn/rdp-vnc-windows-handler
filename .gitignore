@@ -1,0 +1,18 @@
+# Build outputs
+dist/
+
+# User settings
+%LOCALAPPDATA%\RdpVncUrlHandler/
+
+# Logs
+*.log
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS
+Thumbs.db
+Desktop.ini
